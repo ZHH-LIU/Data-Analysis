@@ -22,4 +22,4 @@
 中文文章中使用。
 
 ## 出处
-[简书博主lcjyzm《三种空格unicode(\u00A0,\u0020,\u3000)表示的区别》](https://www.jianshu.com/p/4317e3749a13)
+[[1]](https://www.jianshu.com/p/4317e3749a13)简书.lcjyzm.三种空格unicode(\u00A0,\u0020,\u3000)表示的区别
